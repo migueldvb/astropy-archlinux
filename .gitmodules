@@ -1,0 +1,66 @@
+[submodule "python-aplpy-doc"]
+	path = python-aplpy-doc
+	url = ssh://aur@aur.archlinux.org/python-aplpy-doc.git
+[submodule "python-astroplan"]
+	path = python-astroplan
+	url = ssh://aur@aur.archlinux.org/python-astroplan.git
+[submodule "python-astropy-doc"]
+	path = python-astropy-doc
+	url = ssh://aur@aur.archlinux.org/python-astropy-doc.git
+[submodule "python-astroquery-git"]
+	path = python-astroquery-git
+	url = ssh://aur@aur.archlinux.org/python-astroquery-git.git
+[submodule "python-baseband"]
+	path = python-baseband
+	url = ssh://aur@aur.archlinux.org/python-baseband.git
+[submodule "python-ccdproc"]
+	path = python-ccdproc
+	url = ssh://aur@aur.archlinux.org/python-ccdproc.git
+[submodule "python-ginga-doc"]
+	path = python-ginga-doc
+	url = ssh://aur@aur.archlinux.org/python-ginga-doc.git
+[submodule "python-gwcs"]
+	path = python-gwcs
+	url = ssh://aur@aur.archlinux.org/python-gwcs.git
+[submodule "python-hips"]
+	path = python-hips
+	url = ssh://aur@aur.archlinux.org/python-hips.git
+[submodule "python-imexam"]
+	path = python-imexam
+	url = ssh://aur@aur.archlinux.org/python-imexam.git
+[submodule "python-naima"]
+	path = python-naima
+	url = ssh://aur@aur.archlinux.org/python-naima.git
+[submodule "python-photutils"]
+	path = python-photutils
+	url = ssh://aur@aur.archlinux.org/python-photutils.git
+[submodule "python-pydl"]
+	path = python-pydl
+	url = ssh://aur@aur.archlinux.org/python-pydl.git
+[submodule "python-pyspeckit"]
+	path = python-pyspeckit
+	url = ssh://aur@aur.archlinux.org/python-pyspeckit.git
+[submodule "python-pyvo"]
+	path = python-pyvo
+	url = ssh://aur@aur.archlinux.org/python-pyvo.git
+[submodule "python-radio_beam"]
+	path = python-radio_beam
+	url = ssh://aur@aur.archlinux.org/python-radio_beam.git
+[submodule "python-regions"]
+	path = python-regions
+	url = ssh://aur@aur.archlinux.org/python-regions.git
+[submodule "python-reproject"]
+	path = python-reproject
+	url = ssh://aur@aur.archlinux.org/python-reproject.git
+[submodule "python-spectral-cube"]
+	path = python-spectral-cube
+	url = ssh://aur@aur.archlinux.org/python-spectral-cube.git
+[submodule "python-specutils"]
+	path = python-specutils
+	url = ssh://aur@aur.archlinux.org/python-specutils.git
+[submodule "python-specviz"]
+	path = python-specviz
+	url = ssh://aur@aur.archlinux.org/python-specviz.git
+[submodule "python-sphinx-astropy"]
+	path = python-sphinx-astropy
+	url = ssh://aur@aur.archlinux.org/python-sphinx-astropy.git
