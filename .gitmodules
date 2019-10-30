@@ -64,3 +64,6 @@
 [submodule "python-sphinx-astropy"]
 	path = python-sphinx-astropy
 	url = ssh://aur@aur.archlinux.org/python-sphinx-astropy.git
+[submodule "python-sbpy"]
+	path = python-sbpy
+	url = ssh://aur@aur.archlinux.org/python-sbpy.git
