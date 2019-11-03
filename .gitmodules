@@ -78,3 +78,7 @@
 	path = python-pytest-astropy-meta
 	url = ssh://aur@aur.archlinux.org/python-pytest-astropy-meta.git
 	ignore = untracked
+[submodule "python-sbpy-doc"]
+	path = python-sbpy-doc
+	url = ssh://aur@aur.archlinux.org/python-sbpy-doc.git
+	ignore = untracked
