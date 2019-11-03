@@ -67,6 +67,7 @@
 [submodule "python-sbpy"]
 	path = python-sbpy
 	url = ssh://aur@aur.archlinux.org/python-sbpy.git
+	ignore = untracked
 [submodule "python-astropy-helpers"]
 	path = python-astropy-helpers
 	url = ssh://aur@aur.archlinux.org/python-astropy-helpers.git
