@@ -82,3 +82,7 @@
 	path = python-sbpy-doc
 	url = ssh://aur@aur.archlinux.org/python-sbpy-doc.git
 	ignore = untracked
+[submodule "python-astroquery"]
+	path = python-astroquery
+	url = ssh://aur@aur.archlinux.org/python-astroquery.git
+	ignore = untracked
